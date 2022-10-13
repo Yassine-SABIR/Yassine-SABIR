@@ -1,5 +1,5 @@
 ### Hi there 👋<img src="https://www.ssl-management.net/wp-content/uploads/2021/10/Cyber-Security.jpg" width="50%" height="50%" style="margin-left: 0;">
-### My name is <b>SABIR Yassine</b>, i'm currentely cyber security engineer student at High National School for Computer Science and Systems Analysis - ENSIAS 
+### My name is SABIR Yassine, i'm currentely cyber security engineer student at High National School for Computer Science and Systems Analysis - ENSIAS 
 
 
 <!--
