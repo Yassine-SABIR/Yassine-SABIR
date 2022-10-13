@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm SABIR Yassine</h1>
+<h1 style="text-align: center;">Hi 👋, I'm SABIR Yassine</h1>
 
 <img src="https://www.ssl-management.net/wp-content/uploads/2021/10/Cyber-Security.jpg" width="50%" height="50%" style="margin: auto;">
 <ul>
