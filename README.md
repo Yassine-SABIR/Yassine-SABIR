@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SABIR Yassine</h1>
 <h2 align="center">A passionate cyber security student at ENSIAS</h2>
 
-<img src="https://www.ssl-management.net/wp-content/uploads/2021/10/Cyber-Security.jpg" width="50%" height="50%" style="margin: auto;" align="right">
+<img src="https://www.ssl-management.net/wp-content/uploads/2021/10/Cyber-Security.jpg" width="400px" style="margin: auto;" align="right">
 <br><br><br><br>
 <ul>
   <li>🔭 i'm currentely cyber security engineer student at <a href="http://ensias.um5.ac.ma/">High National School for Computer Science and Systems Analysis - ENSIAS </a></li>
