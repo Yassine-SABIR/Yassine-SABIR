@@ -4,7 +4,7 @@
 <img src="https://www.ssl-management.net/wp-content/uploads/2021/10/Cyber-Security.jpg" width="400px" style="margin: auto;" align="right">
 <br><br><br><br>
 <ul>
-  <li>🔭 i'm currentely cyber security engineer student at <a href="http://ensias.um5.ac.ma/">High National School for Computer Science and Systems Analysis - ENSIAS </a></li>
+  <li>🔭 i'm currentely cyber security engineering student at <a href="http://ensias.um5.ac.ma/">High National School for Computer Science and Systems Analysis - ENSIAS </a></li>
 </ul>
 
 <br><br><br><br><br>
