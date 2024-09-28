@@ -11,9 +11,12 @@
 
 <h2 align="center">HackTheBox Profile</h2>
 
-| Left Block | Right Block |
-|------------|-------------|
-| This is the content of the left block. | This is the content of the right block. |
+| ![Image Description](https://cdn.prod.website-files.com/66153b9f3cb891501ecbf3e3/66301fa3cd6f5ea5d616aab9_what-is-cybersecurity.jpg) | **Details:**  
+- Detail 1  
+- Detail 2  
+- Detail 3 |
+|------------------------------------------------------|------------------------------------------------|
+
 
 
 
