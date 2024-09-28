@@ -11,6 +11,37 @@
 
 <h2 align="center">HackTheBox Profile</h2>
 
+ <style>
+        .left {
+            float: left;
+            width: 45%;
+            background-color: lightgreen;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .right {
+            float: right;
+            width: 45%;
+            background-color: lightcoral;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        /* Clear fix to avoid layout issues */
+        .container::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+
+
+<div class="container">
+    <div class="left">Left Block</div>
+    <div class="right">Right Block</div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
