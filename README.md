@@ -11,36 +11,10 @@
 
 <h2 align="center">HackTheBox Profile</h2>
 
- <style>
-        .left {
-            float: left;
-            width: 45%;
-            background-color: lightgreen;
-            padding: 20px;
-            box-sizing: border-box;
-        }
+| Left Block | Right Block |
+|------------|-------------|
+| This is the content of the left block. | This is the content of the right block. |
 
-        .right {
-            float: right;
-            width: 45%;
-            background-color: lightcoral;
-            padding: 20px;
-            box-sizing: border-box;
-        }
-
-        /* Clear fix to avoid layout issues */
-        .container::after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-    </style>
-
-
-<div class="container">
-    <div class="left">Left Block</div>
-    <div class="right">Right Block</div>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
