@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .bar { fill: #2D2D2D; }
+      .close { fill: #FF5F56; }
+      .min { fill: #FFBD2E; }
+      .max { fill: #27C93F; }
+      .title { fill: #E6E6E6; font-family: 'Ubuntu', 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; text-anchor: middle; }
+      .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; }
+      .user { fill: #8AE234; font-weight: bold; }
+      .colon { fill: #FFFFFF; }
+      .tilde { fill: #729FCF; font-weight: bold; }
+      .cmd { fill: #E6E6E6; }
+      .output { fill: #E6E6E6; }
+      .cursor { fill: #FFFFFF; animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="600" height="280" rx="6" ry="6" />
+
+  <!-- Top Bar -->
+  <path class="bar" d="M 0 6 C 0 2.686 2.686 0 6 0 L 594 0 C 597.314 0 600 2.686 600 6 L 600 30 L 0 30 Z" />
+
+  <!-- Window Controls -->
+  <circle class="close" cx="20" cy="15" r="6" />
+  <circle class="min" cx="40" cy="15" r="6" />
+  <circle class="max" cx="60" cy="15" r="6" />
+
+  <!-- Window Title -->
+  <text class="title" x="300" y="20">ys4b@localhost:~</text>
+
+  <!-- Terminal Content Padded 15px from edge, starts at y=30+15=45 -->
+  <g class="text" transform="translate(15, 60)">
+    <!-- Line 1: whoami -->
+    <text y="0">
+      <tspan class="user">ys4b@localhost</tspan><tspan class="colon">:</tspan><tspan class="tilde">~</tspan><tspan class="colon">$ </tspan><tspan class="cmd">whoami</tspan>
+    </text>
+    
+    <!-- Line 2: output -->
+    <text y="22" class="output">ys4b</text>
+
+    <!-- Line 4: cat -->
+    <text y="62">
+      <tspan class="user">ys4b@localhost</tspan><tspan class="colon">:</tspan><tspan class="tilde">~</tspan><tspan class="colon">$ </tspan><tspan class="cmd">cat ~/.about_me</tspan>
+    </text>
+
+    <!-- Line 5-8: about output wrapped -->
+    <text y="84" class="output">Cybersecurity engineer with hands-on experience in web/system </text>
+    <text y="106" class="output">pentesting, SOC analysis, and forensic investigation. Skilled </text>
+    <text y="128" class="output">in Python scripting, log analysis, and security tooling</text>
+    <text y="158" class="output">Always learning, always building. 🚀</text>
+
+    <!-- Line 10: cursor -->
+    <text y="198">
+      <tspan class="user">ys4b@localhost</tspan><tspan class="colon">:</tspan><tspan class="tilde">~</tspan><tspan class="colon">$ </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
