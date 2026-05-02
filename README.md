@@ -6,6 +6,34 @@
 
 <br/>
 
+
+  <table align="center" width="600" style="font-family: inherit; border-collapse: collapse;">
+    <tr bgcolor="#2D2D2D">
+      <td width="20%" align="left" style="border-radius: 6px 0 0 0; padding: 10px;"></td>
+      <td width="60%" align="center" style="color: #E6E6E6; font-family: monospace; font-size: 13px;">ys4b@localhost:~</td>
+      <td width="20%" align="right" style="border-radius: 0 6px 0 0; padding: 10px; color: #888888; font-family: sans-serif; font-size: 14px;"><b>&#8722; &nbsp;&nbsp;&#9723; &nbsp;&nbsp;&#10005;</b>&nbsp;</td>
+    </tr>
+    <tr align="left" bgcolor="#0D1117">
+      <td colspan="3" style="border-radius: 0 0 6px 6px; padding: 20px;">
+        <pre style="background-color: transparent; border: none; margin: 0; padding: 0;"><code style="font-family: 'Courier New', monospace; font-size: 14px; color: #E6E6E6;">
+<span style="color: #8AE234;">ys4b@localhost</span>:<span style="color: #729FCF;">~</span>$ whoami
+ys4b
+
+<span style="color: #8AE234;">ys4b@localhost</span>:<span style="color: #729FCF;">~</span>$ cat ~/.about_me
+Cybersecurity engineer with hands-on experience in web/system
+pentesting, SOC analysis, and forensic investigation. 
+Skilled in Python scripting, log analysis, and security tooling
+Always learning, always building. 🚀
+
+<span style="color: #8AE234;">ys4b@localhost</span>:<span style="color: #729FCF;">~</span>$ █
+        </code></pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <!-- Colored Badges for Technologies using HTML and Shields.io -->
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
