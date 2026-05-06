@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="https://app.hackthebox.com/profile/1041901">
+  <a href="https://app.hackthebox.com/public/users/1041901">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="Hack The Box" />
   </a>
 </p>
